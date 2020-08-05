@@ -1,4 +1,4 @@
-export { default as ConsoleColor } from "https://deno.land/x/color/index.ts";
+export { default as ConsoleColor } from "https://deno.land/std/fmt/colors.ts";
 
 export { default as SQLQueryBuilder } from "https://deno.land/x/dex/mod.ts";
 
